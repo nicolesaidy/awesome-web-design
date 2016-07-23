@@ -50,7 +50,7 @@ A curated list of awesome resources for digital designers.
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
-* [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand
+* [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
 
 ## Design Tools
 * [Balsamiq](http://balsamiq.com): Rapid, effective and fun wireframing software.
@@ -82,7 +82,7 @@ A curated list of awesome resources for digital designers.
 
 ## Tutorials & Courses
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
-* [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials
+* [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 
 ## Time Management
