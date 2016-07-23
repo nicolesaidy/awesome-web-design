@@ -81,9 +81,9 @@ A curated list of awesome resources for digital designers.
 * [Sketch keyboard](https://designcode.io/sketch-keyboard): Sketch keyboard shortcuts and tricks.
 
 ## Tutorials & Courses
-[Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
-[Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials
-[Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
+* [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
+* [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials
+* [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 
 ## Time Management
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
