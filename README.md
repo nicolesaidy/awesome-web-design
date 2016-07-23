@@ -65,7 +65,8 @@ A curated list of awesome resources for digital designers.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
-## Sketch tools
+
+## Sketch Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Sketch Casts](https://www.sketchcasts.net/): Screencast video tutorials focused on Sketch for beginners and experts.
