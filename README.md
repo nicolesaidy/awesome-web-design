@@ -87,7 +87,7 @@
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 
-## Time Management
+## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
 * [Toggl](http://toggl.com): Time tracker to improve workplace productivity.
 * [Inbox by Google](http://inbox.google.com): The email tool that makes your life more efficient.
