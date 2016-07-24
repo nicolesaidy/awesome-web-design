@@ -2,6 +2,7 @@
 > A curated list of awesome resources for digital designers.
 
 **Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/nicolesaidy).**
+
 ----
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
