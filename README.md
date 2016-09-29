@@ -32,7 +32,7 @@
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
 * [Font Face Ninja Browser Extension](http://fontface.ninja/): You’re browsing a website and you want to find the name of a font? Here comes the ninja!
-* [Fontpair](http://fontpair.io): Beautiful Google Font combinations and pairs.
+* [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 * [Type Anything](https://typeanything.io/): Create great font combinations.
 * [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project.
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
