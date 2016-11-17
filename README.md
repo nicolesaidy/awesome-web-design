@@ -93,3 +93,5 @@
 * [Inbox by Google](http://inbox.google.com): The email tool that makes your life more efficient.
 * [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way.
 * [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
+* [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
+* [Sip](http://sipapp.io/): A color picker for Mac.
