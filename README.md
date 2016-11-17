@@ -54,7 +54,7 @@
 * [Unsplash.it](http://unsplash.it): Placeholders using a beautiful image gallery.
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
-* [Flickr}(https://www.flickr.com): The home for all your photos.
+* [Flickr](https://www.flickr.com): The home for all your photos.
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
