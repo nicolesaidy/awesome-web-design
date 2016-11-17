@@ -70,16 +70,16 @@
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
 
 ## Sketch Tools
-### Tutorials
+#### Tutorials
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Sketch Casts](https://www.sketchcasts.net/): Screencast video tutorials focused on Sketch for beginners and experts.
 
-### Plugins
+#### Plugins
 * [Sketch Plugins](http://sketchapp.com/extensions/plugins/): Plugins created by third-party developers.
 * [Sketch Land](http://sketch.land): An index of the most useful resources for Sketch.
 * [Sketch App Sources](http://www.sketchappsources.com/plugins.html): Plugins for Sketch.
 
-### Shortcuts
+#### Shortcuts
 * [Sketch Shortcuts](http://sketchshortcuts.com/): A list of keyboard shortcuts for Sketch app.
 * [Sketch keyboard](https://designcode.io/sketch-keyboard): Sketch keyboard shortcuts and tricks.
 
