@@ -55,6 +55,7 @@
 * [Google Material Design](https://material.google.com/): A close look at the design, components & resources for Google's brand.
 
 ## Design Tools
+* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Balsamiq](http://balsamiq.com): Rapid, effective and fun wireframing software.
 * [Wireframe.cc](https://wireframe.cc/): Minimal wireframing tool.
 * [Axure](www.axure.com/): Prototypes, specifications & diagrams in one tool.
@@ -69,7 +70,7 @@
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
 
 ## Sketch Tools
-* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
+### Tutorials
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Sketch Casts](https://www.sketchcasts.net/): Screencast video tutorials focused on Sketch for beginners and experts.
 
