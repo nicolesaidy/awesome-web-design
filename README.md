@@ -18,6 +18,8 @@
 * [Behance](http://behance.net): Showcase & discover creative work.
 * [Dribbble](http://dribbble.com): Show and tell for designers.
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
+* [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
+* [UI Patterns](http://ui-patterns.com/): Recurring solutions that solve common design problems.
 
 ## Colors
 * [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
@@ -27,6 +29,7 @@
 * [Lol Colors](http://www.lolcolors.com/): Curated color palette inspiration.
 * [Colordot](https://color.hailpixel.com/): A color picker for humans.
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
+* [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
 
 ## Typography
@@ -39,16 +42,19 @@
 
 ## Icons
 * [Flat Icon](http://flaticon.com): Thousands of free flat icons.
-* [Icon Archive](http://iconarchive.com): Search for web icons.
+* [Font Awesome](http://fontawesome.io): The iconic font and CSS toolkit.
 * [Icon Finder](http://iconfinder.com): 1 million free and premium icons.
+* [The Noun Project](https://thenounproject.com/): Icons for Everything.
 * [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
 * [Freepik](http://freepik.com): Free vectors in different formats.
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 
 ## Images
+* [Pexels](https://pexels.com): Best free stock photos in one place.
 * [Unsplash.it](http://unsplash.it): Placeholders using a beautiful image gallery.
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
+* [Flickr}(https://www.flickr.com): The home for all your photos.
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
@@ -87,6 +93,7 @@
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
+* [GoodUI](www.goodui.org): 5 Ways You Can Get A Better UI.
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
