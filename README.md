@@ -3,7 +3,6 @@
 
 **Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/nicolesaidy). ✨**
 
-----
 ## Contents
 
 - [Blog & News](#blog--news)
