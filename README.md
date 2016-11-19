@@ -4,6 +4,21 @@
 **Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/nicolesaidy). ✨**
 
 ----
+## Contents
+
+- [Blog & News](#blog--news)
+- [Inspiration](#inspiration)
+- [Colors](#colors)
+- [Typography](#typography)
+- [Icons](#icons)
+- [Images](#images)
+- [Guidelines](#guidelines)
+- [Design Tools](#design-tools)
+- [Sketch Tools](#sketch-tools)
+- [Tutorials & Courses](#tutorials--courses)
+- [Productivity](#productivity)
+
+----
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
 * [The Next Web](http://thenextweb.com): International technology news, business & culture.
