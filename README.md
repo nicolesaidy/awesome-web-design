@@ -1,7 +1,7 @@
 # Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome resources for digital designers.
 
-**Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/nicolesaidy). ✨**
+**Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/@nicolesaidy). ✨**
 
 ## Contents
 
@@ -17,7 +17,6 @@
 - [Tutorials & Courses](#tutorials--courses)
 - [Productivity](#productivity)
 
-----
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
 * [The Next Web](http://thenextweb.com): International technology news, business & culture.
@@ -107,7 +106,7 @@
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
-* [GoodUI](www.goodui.org): 5 Ways You Can Get A Better UI.
+* [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
