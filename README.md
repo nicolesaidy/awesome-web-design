@@ -116,3 +116,7 @@
 * [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
+
+
+## License
+[![CC0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
