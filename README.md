@@ -119,6 +119,9 @@
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
 
+## Share
+* <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>
+* <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
