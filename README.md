@@ -19,11 +19,13 @@
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
-* [The Next Web](http://thenextweb.com): International technology news, business & culture.
-* [Medium](http://medium.com): A community of readers and writers offering unique perspectives on ideas large and small.
+* [The Next Web](http://thenextweb.com/section/creative/): International technology news, business & culture.
+* [Medium]( https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 * [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
 * [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
 * [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things.
+* [Designer News](https://www.designernews.co/): Where the design community meets.
+* [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
