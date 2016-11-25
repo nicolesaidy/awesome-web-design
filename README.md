@@ -124,4 +124,4 @@
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
 ## License
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
