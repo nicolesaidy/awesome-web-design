@@ -19,6 +19,7 @@
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
+* [Marvel Blog](http://blog.marvelapp.com): The latest news, resources and thoughts from the Marvel team.
 * [The Next Web](http://thenextweb.com/section/creative/): International technology news, business & culture.
 * [Medium]( https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 * [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
