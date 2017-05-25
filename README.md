@@ -30,12 +30,13 @@
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
+* [One Page Love](http://onepagelove.com):  Sesign gallery showcasing the best Single Page websites.
 * [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
 * [Behance](http://behance.net): Showcase & discover creative work.
 * [Dribbble](http://dribbble.com): Show and tell for designers.
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
-* [UI Patterns](http://ui-patterns.com/): Recurring solutions that solve common design problems.
+* [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
 
 ## Colors
 * [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
