@@ -122,6 +122,7 @@
 * [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
+* [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 ## Share
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>
