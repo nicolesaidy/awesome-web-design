@@ -97,6 +97,7 @@
 #### Tutorials
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Sketch Casts](https://www.sketchcasts.net/): Screencast video tutorials focused on Sketch for beginners and experts.
+* [Tips and Tricks Sketch](http://learnsketch.com): Tutorial, Tip and Tricks and Free Resources to download.
 
 #### Plugins
 * [Sketch Plugins](http://sketchapp.com/extensions/plugins/): Plugins created by third-party developers.
