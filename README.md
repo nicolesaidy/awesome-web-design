@@ -16,7 +16,7 @@
 - [Sketch Tools](#sketch-tools)
 - [Tutorials & Courses](#tutorials--courses)
 - [Productivity](#productivity)
-- [Slack List](#slack-list)
+- [Slack Teams](#slack-teams)
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -125,10 +125,10 @@
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
 
-## Slack List
+## Slack Teams
 * [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
-* [Designer Hangout](https://www.designerhangout.co): Join 3200+ UXers from around the world to discuss user experience.
-* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): We talk about UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedback.
+* [Designer Hangout](https://www.designerhangout.co): A tool that UXers from around the world are using to discuss the user experience.
+* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A tool that UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedback.
 
 
 ## Share
