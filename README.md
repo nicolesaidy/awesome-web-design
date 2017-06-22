@@ -129,8 +129,8 @@
 ## Slack Teams
 * [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
 * [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
-* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A team for UI/UX design, web design, freelancing, design critiques, etc.
-
+* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
+* [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
 
 ## Share
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>
