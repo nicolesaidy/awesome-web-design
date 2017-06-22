@@ -16,6 +16,7 @@
 - [Sketch Tools](#sketch-tools)
 - [Tutorials & Courses](#tutorials--courses)
 - [Productivity](#productivity)
+- [Slack Teams](#slack-teams)
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -124,6 +125,12 @@
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
+
+## Slack Teams
+* [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
+* [Designer Hangout](https://www.designerhangout.co): A tool that UXers from around the world are using to discuss the user experience.
+* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A tool that UI/UX Design, Web Design, Illustrations, freelancing, Design critiques, give each other feedback.
+
 
 ## Share
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>
