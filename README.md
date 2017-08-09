@@ -68,6 +68,7 @@
 * [Favicon Generator](http://www.favicon-generator.org/): Favicon & app icon generator.
 * [Freepik](http://freepik.com): Free vectors in different formats.
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
+* [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
