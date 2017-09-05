@@ -14,7 +14,6 @@
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
 - [Prototype Tools](#prototype-tools)
-- [Sketch Tools](#sketch-tools)
 - [Tutorials & Courses](#tutorials--courses)
 - [Productivity](#productivity)
 - [Slack Teams](#slack-teams)
