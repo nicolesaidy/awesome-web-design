@@ -101,26 +101,13 @@
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel](https://marvelapp.com/): Free mobile & web prototyping for designers.
 
-## Sketch Tools
-#### Tutorials
-* [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
-* [Sketch Casts](https://www.sketchcasts.net/): Screencast video tutorials focused on Sketch for beginners and experts.
-* [Tips and Tricks Sketch](http://learnsketch.com): Tutorial, Tip and Tricks and Free Resources to download.
-
-#### Plugins
-* [Sketch Plugins](http://sketchapp.com/extensions/plugins/): Plugins created by third-party developers.
-* [Sketch Land](http://sketch.land): An index of the most useful resources for Sketch.
-* [Sketch App Sources](http://www.sketchappsources.com/plugins.html): Plugins for Sketch.
-
-#### Shortcuts
-* [Sketch Shortcuts](http://sketchshortcuts.com/): A list of keyboard shortcuts for Sketch app.
-* [Sketch keyboard](https://designcode.io/sketch-keyboard): Sketch keyboard shortcuts and tricks.
-
-## Tutorials & Courses
+## Tutorials
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+* [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
+* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.  
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
