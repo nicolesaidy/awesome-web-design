@@ -58,6 +58,7 @@
 * [Type Scale](http://type-scale.com/): Preview and choose the right type scale for your project.
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
 * [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
+* [Typ.io](http://typ.io/): Typography inspiration from real websites.
 
 ## Icons
 * [Flat Icon](http://flaticon.com): Thousands of free flat icons.
