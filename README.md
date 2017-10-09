@@ -22,7 +22,7 @@
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
 * [Marvel Blog](http://blog.marvelapp.com): The latest news, resources and thoughts from the Marvel team.
 * [The Next Web](http://thenextweb.com/section/creative/): International technology news, business & culture.
-* [Medium]( https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
+* [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 * [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
 * [Smashing Magazine](http://smashingmagazine.com): For professional web designers & developers.
 * [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things.
@@ -87,7 +87,7 @@
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Figma](http://figma.com): The collaborative interface design tool.
 * [Wireframe.cc](https://wireframe.cc/): Minimal wireframing tool.
-* [Axure](www.axure.com/): Prototypes, specifications & diagrams in one tool.
+* [Axure](http://www.axure.com/): Prototypes, specifications & diagrams in one tool.
 * [Proto.io](http://proto.io): Interactive high-fidelity prototypes that look and work like your app should.
 * [Frontify](http://frontify.com): Create brand guidelines & smart UI libraries.
 * [UX Pin](http://uxpin.com): UX design, wireframing & prototyping tool.
@@ -98,7 +98,7 @@
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
 * [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
-* [Adobe XD](www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
+* [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel](https://marvelapp.com/): Free mobile & web prototyping for designers.
 
