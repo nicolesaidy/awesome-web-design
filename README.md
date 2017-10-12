@@ -28,6 +28,7 @@
 * [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things.
 * [Designer News](https://www.designernews.co/): Where the design community meets.
 * [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
+* [50 Things you probably forgot to design checklist](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914): nice checklist for design practice
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
