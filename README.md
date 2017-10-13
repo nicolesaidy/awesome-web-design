@@ -93,6 +93,7 @@
 * [UX Pin](http://uxpin.com): UX design, wireframing & prototyping tool.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Balsamiq](http://balsamiq.com): Rapid, effective and fun wireframing software.
+* [Froala Design Blocks](https://www.froala.com/design-blocks) : A set of 170+ free design blocks based on Bootstrap 4.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
