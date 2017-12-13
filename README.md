@@ -121,6 +121,7 @@
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
+* [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
 
 ## Slack Teams
 * [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
