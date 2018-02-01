@@ -110,6 +110,7 @@
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.  
+* [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
