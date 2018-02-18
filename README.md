@@ -131,7 +131,7 @@
 * [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
 
 ## Share
-* <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>
+* <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20An%20Awesome%20Web%20Design%20Collection%20@nicolesaidy" target="_blank">Share on Twitter</a>
 * <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
 ## License
