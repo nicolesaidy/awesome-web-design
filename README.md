@@ -90,22 +90,16 @@
 ## Design Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Figma](http://figma.com): The collaborative interface design tool.
-* [Wireframe.cc](https://wireframe.cc/): Minimal wireframing tool.
-* [Axure](http://www.axure.com/): Prototypes, specifications & diagrams in one tool.
-* [Proto.io](http://proto.io): Interactive high-fidelity prototypes that look and work like your app should.
-* [Frontify](http://frontify.com): Create brand guidelines & smart UI libraries.
-* [UX Pin](http://uxpin.com): UX design, wireframing & prototyping tool.
-* [Canva](http://canva.com): Amazingly simple graphic design software.
-* [Balsamiq](http://balsamiq.com): Rapid, effective and fun wireframing software.
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
+* [Canva](http://canva.com): Amazingly simple graphic design software.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
 * [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
-* [Marvel](https://marvelapp.com/): Free mobile & web prototyping for designers.
+* [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 
 ## Tutorials
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
