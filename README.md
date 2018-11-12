@@ -29,6 +29,7 @@
 * [Designer News](https://www.designernews.co/): Where the design community meets.
 * [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
 * [Morning Reader](https://morningreader.com): Breaking tech news.
+* [Google design]  (https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA)
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
@@ -102,6 +103,7 @@
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
+* [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
 ## Tutorials
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
