@@ -94,6 +94,7 @@
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
+* [Framer X](https://framer.com/): Interaction Design and UX design software.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
@@ -101,6 +102,7 @@
 * [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
 * [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
+* [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
 ## Tutorials
