@@ -115,7 +115,6 @@
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
 * [Toggl](http://toggl.com): Time tracker to improve workplace productivity.
-* [Inbox by Google](http://inbox.google.com): The email tool that makes your life more efficient.
 * [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way.
 * [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 * [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
