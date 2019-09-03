@@ -73,6 +73,7 @@
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 * [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 * [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
+* [iconscout.com](https://iconscout.com/icons): Discover over 2 Million+ Icons from 350+ designers.
 
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
@@ -81,6 +82,7 @@
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
 * [Flickr](https://www.flickr.com): The home for all your photos.
+* [iconscout.com](https://iconscout.com/photos): Discover Commercial and Editorial stock photos from 100+ photographers.
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
