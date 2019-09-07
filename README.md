@@ -55,6 +55,7 @@
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts 2 steps easier for developers.
 * [Font Face Ninja Browser Extension](http://fontface.ninja/): You’re browsing a website and you want to find the name of a font? Here comes the ninja!
 * [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 * [Type Anything](https://typeanything.io/): Create great font combinations.
