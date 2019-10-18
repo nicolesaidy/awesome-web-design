@@ -55,6 +55,7 @@
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
+* [Adobe Fonts](https://fonts.adobe.com/): Adobe Fonts is an online service which offers a subscription library of high-quality fonts.
 * [Font Face Ninja Browser Extension](http://fontface.ninja/): You’re browsing a website and you want to find the name of a font? Here comes the ninja!
 * [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 * [Type Anything](https://typeanything.io/): Create great font combinations.
@@ -88,6 +89,7 @@
 * [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+* [IBM Design Language](https://www.ibm.com/design/language/): This is the guiding ethos behind IBM’s design philosophy and principles.
 
 ## Design Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
