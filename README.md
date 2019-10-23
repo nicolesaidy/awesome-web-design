@@ -126,6 +126,7 @@
 * [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
 * [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
 * [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
+* [Get started in UX Design](https://gsiuxd.herokuapp.com/): A community of over 1,200+ designers and founders primarily from India.
 
 ## Share
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20An%20Awesome%20Web%20Design%20Collection%20@nicolesaidy" target="_blank">Share on Twitter</a>
