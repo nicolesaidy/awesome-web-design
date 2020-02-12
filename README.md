@@ -31,6 +31,7 @@
 * [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
 * [Morning Reader](https://morningreader.com): Breaking tech news.
 * [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
+* [Webwide](https://webwide.io): Discussion forum community for web designers & developers.
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
