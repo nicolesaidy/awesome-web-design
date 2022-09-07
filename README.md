@@ -105,6 +105,7 @@
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
+* [Visily](https://www.visily.ai): A collaborative UI design software for non-designers. Must try: Screenshot-to-Design feature.
 
 ## Tutorials
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
