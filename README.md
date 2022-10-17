@@ -52,6 +52,7 @@
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
 * [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
+* [Branition Colors](https://branition.com/colors): Hand-curated collection of color pallets best fitted for branding.
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
