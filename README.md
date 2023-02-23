@@ -115,9 +115,11 @@
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
+* [Web design playground, second edition](https://www.manning.com/books/web-design-playground-second-edition): Written by web designer and master teacher Paul McFedries, this unique book shapes and sharpens your skills in the always-relevant technologies of the web.
 * [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
 * [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 * [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know?utm_source=CMblog&utm_medium=post&utm_campaign=blog_)
+* [Design for Developers](https://www.manning.com/books/design-for-developers)
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com): A cool time management technique for a more productive way to work and study.
