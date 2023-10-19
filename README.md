@@ -35,7 +35,6 @@
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
 * [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
-* [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
 * [Behance](http://behance.net): Showcase & discover creative work.
 * [Dribbble](http://dribbble.com): Show and tell for designers.
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
