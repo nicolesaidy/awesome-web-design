@@ -96,6 +96,8 @@
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
+* [Happy-Birthday](https://github.com/Harmann60/Happy-Birthday) - A simple, open-source birthday website template to celebrate loved ones creatively 🎂
+
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
