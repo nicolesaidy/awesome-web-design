@@ -81,6 +81,8 @@
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
 * [Flickr](https://www.flickr.com): The home for all your photos.
+* [BulkPicTools](https://bulkpictools.com) — A browser-based batch image processor that uses WebAssembly for 100% local compression and conversion.
+
 
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/): Offers everything you need to design beautiful, engaging iOS apps.
