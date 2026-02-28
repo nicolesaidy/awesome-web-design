@@ -12,6 +12,7 @@
 - [Icons](#icons)
 - [Images](#images)
 - [Guidelines](#guidelines)
+- [Accessibility](#accessibility)
 - [Design Tools](#design-tools)
 - [Prototype Tools](#prototype-tools)
 - [Tutorials](#tutorials)
@@ -88,6 +89,13 @@
 * [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+
+## Accessibility
+* [WAVE](https://wave.webaim.org/): Web accessibility evaluation tool by WebAIM.
+* [axe DevTools](https://www.deque.com/axe/devtools/): Browser extension for accessibility testing built on the axe-core engine.
+* [RatedWithAI](https://ratedwithai.com): AI-powered website accessibility scanner for ADA and WCAG compliance.
+* [Contrast Ratio](https://contrast-ratio.com/): Check color contrast ratios against WCAG guidelines.
+* [The A11Y Project](https://www.a11yproject.com/): A community-driven effort to make digital accessibility easier.
 
 ## Design Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
