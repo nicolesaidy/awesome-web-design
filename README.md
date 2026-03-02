@@ -33,6 +33,7 @@
 * [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
 
 ## Inspiration
+* [A1 Gallery](https://www.a1.gallery): Hand-curated web design inspiration, filterable by font, technology, style, and creator.
 * [Awwwards](http://awwwards.com): Best web design trends.
 * [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
 * [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
