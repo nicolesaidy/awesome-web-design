@@ -73,6 +73,7 @@
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 * [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 * [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
+* [Woopicx](https://woopicx.com/collection/basic3d): 12,000+ AI-generated 3D icons across 80+ categories. Free with commercial license.
 
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
