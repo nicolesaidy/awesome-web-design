@@ -129,6 +129,7 @@
 * [Sip](http://sipapp.io/): A color picker for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
+* [ZapTools](https://zaptools.web.app): 117+ free browser-based tools including CSS generators, color utilities, and design helpers.
 
 ## Slack Teams
 * [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
