@@ -95,6 +95,7 @@
 * [Adobe XD](https://www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
+* [igly.ai](https://igly.ai): AI image editing platform for designers with background removal, inpainting, upscaling, and generative fill.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
 
 ## Prototype Tools
