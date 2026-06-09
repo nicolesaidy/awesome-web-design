@@ -55,6 +55,7 @@
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
+* [FontBoxDL](https://fontboxdl.com): A free font library with 60,000+ typefaces — instant download, no signup, plus font tools (fancy text, font-to-SVG for Cricut).
 * [Font Face Ninja Browser Extension](http://fontface.ninja/): You’re browsing a website and you want to find the name of a font? Here comes the ninja!
 * [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 * [Type Anything](https://typeanything.io/): Create great font combinations.
