@@ -105,6 +105,7 @@
 * [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 * [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 * [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
+* [IconKing](https://iconking.net): Free browser-based Lottie animation tool. Preview, edit colors across all layers, and convert between .json and .lottie formats. No account needed.
 
 ## Tutorials
 * [Treehouse](https://teamtreehouse.com/tracks/web-design): Brings affordable, technology education to people everywhere.
