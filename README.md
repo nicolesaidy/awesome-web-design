@@ -129,6 +129,7 @@
 * [Sip](http://sipapp.io/): A color picker for Mac.
 * [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
 * [Taskade](https://taskade.com/): Collaborative task lists and outlines for teams.
+* [DemoSprint Lite](https://cloudycotton.github.io/demosprint-lite/): Browser-only scorecard for deciding whether a freelance web prospect is ready for a custom demo.
 
 ## Slack Teams
 * [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
