@@ -41,6 +41,7 @@
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
 * [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
+* [Gallardo Studio Portfolio](https://landing-five-dusky-44.vercel.app/portafolio): Gallery of 48+ real landing page designs built for local businesses (plumbers, electricians, locksmiths, movers), filterable by sector.
 
 ## Colors
 * [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
