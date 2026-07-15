@@ -52,6 +52,7 @@
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
 * [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
+* [ColorTools](https://colorpicker.cx): A free image color picker, color wheel, palette generator, CSS gradient builder and WCAG contrast checker — all in the browser.
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
