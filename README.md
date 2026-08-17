@@ -88,6 +88,7 @@
 * [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles): The ultimate guide to mobile app design principles that make your app shine.
 * [GoodUI](http://www.goodui.org/): 5 Ways You Can Get A Better UI.
+* [UIZZE anti-ui-slop Skill](https://github.com/uizze/uizze): A free workflow for coding agents that grounds UI work in real references, defines a design contract, covers required states, and runs a pre-ship quality gate. [Free Skill](https://uizze.com/.well-known/agent-skills/anti-ui-slop/SKILL.md); the full workflow adds 800,000+ real web and iOS screens.
 
 ## Design Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
