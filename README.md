@@ -73,6 +73,7 @@
 * [Vecteezy](http://vecteezy.com): A collection of free vector art, vector graphics, illustrator backgrounds, etc.
 * [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 * [Ionicons](http://ionicons.com/): The premium icon font for Ionic Framework.
+* [Thridy](https://thridy.com/): Free 3D icon library with 13,000+ icons in one consistent style, no attribution or signup required.
 
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
