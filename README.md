@@ -97,6 +97,8 @@
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
 
+* [Paper Texture Overlay](https://paper-texture.com/paper-texture-overlay/): Blend paper grain into an image locally in the browser, adjust opacity, and export PNG or JPEG; standalone texture redistribution is restricted.
+
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
