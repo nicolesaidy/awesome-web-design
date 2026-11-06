@@ -97,6 +97,8 @@
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
 
+* [LogoMovo](https://logomovo.com/): Create and edit vector logo directions with symbol, typography, color and layout controls, then export SVG or PNG; Studio requires an account and a paid plan.
+
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
