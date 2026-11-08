@@ -52,6 +52,7 @@
 * [Gradients.io](http://www.gradients.io/): Curated gradients for designers & developers.
 * [UI Gradients](http://uigradients.com/): Beautiful color gradients.
 * [Colorzilla](http://colorzilla.com): Eyedropper, color picker, gradient generator.
+* [Cursive Generation Calligraphy Color Palette](https://cursive-generation.com/calligraphy-color-palette): Free browser tool for exploring paper and ink color combinations for calligraphy.
 
 ## Typography
 * [Google Web Fonts](http://fonts.google.com): Offering an intuitive and robust directory of open source designer web fonts.
