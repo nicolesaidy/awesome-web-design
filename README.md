@@ -96,6 +96,7 @@
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
+* [Kite](https://kite.new): Collaborative design tool where AI agents (Claude, Cursor, Codex) draw editable layers through an MCP server, with copy to Figma or HTML/React.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
