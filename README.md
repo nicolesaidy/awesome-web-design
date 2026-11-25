@@ -111,7 +111,8 @@
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/): Free web design and development tutorials.
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
-* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users. 
+* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.
+* [Swavent Guides](https://swavent.com/en/guides): Free Shopify, ecommerce, SEO and web development guides.
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
