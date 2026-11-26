@@ -96,6 +96,7 @@
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
+* [CreoArt Photo Editor](https://creoart.app/photo-editor) - Free, completely ad-free browser-local WebGPU PSD and layer editor (no login, zero uploads) paired with a private 45-model AI image studio.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
